@@ -1,7 +1,8 @@
-DATA DICTIONARY - WEARABLE
+Both the tidy data file and the summarized file created by the run_analysis.R script have the following variables;
 
 ACTIVITY
-Nature of Activity being measured
+Nature of Activity being measured. This takes the following values
+
  WALKING
 
  WALKING_UPSTAIRS
@@ -15,12 +16,16 @@ Nature of Activity being measured
  LAYING
 
 SUBJECT
+
  Identification code of subject
- 1 to 30
+ 
+ This takes the values 1 to 30
 
 Result variables for each activity and subject are as follows. The inclusion of 'mean' or 'std' in the variable name indicates whether
-it is a mean or a standard deviation variable. The letters 'X', 'Y' and 'Z' at the end of the variable name indicate 3-axial signals in the X, Y and Z directions.
-https://github.com/Joseph-Keating/Getting-and-Cleaning-Data-Project.git
+it is a mean or a standard deviation variable. 
+
+The letters 'X', 'Y' and 'Z' at the end of the variable name indicate 3-axial signals in the X, Y and Z directions.
+
  
 tBodyAccmeanX
 tBodyAccmeanY
