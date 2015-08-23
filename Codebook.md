@@ -1,6 +1,6 @@
 Both the tidy data file and the summarized file created by the run_analysis.R script have the following variables;
 
-ACTIVITY
+Variable 1. ACTIVITY
 Nature of Activity being measured. This takes the following values
 
  WALKING
@@ -15,21 +15,27 @@ Nature of Activity being measured. This takes the following values
 
  LAYING
 
-SUBJECT
+Variable 2. SUBJECT
 
  Identification code of subject
  
  This takes the values 1 to 30
 
-Result variables for each activity and subject are as follows. The inclusion of 'mean' or 'std' in the variable name indicates whether
+Variables 3 to 88. These are the Result variables for each activity and subject.
+
+Only those variables which measure a mean or a standard deviation have been included.
+
+The inclusion of 'mean' or 'std' in the variable name indicates whether
 it is a mean or a standard deviation variable. 
 
 The letters 'X', 'Y' and 'Z' at the end of the variable name indicate 3-axial signals in the X, Y and Z directions.
 
+Variables 3 to 88 are as follows:
+
  
 tBodyAccmeanX
 tBodyAccmeanY
-tBodyAccmeanZ
+tBodyAccmeanZ 
 
 tGravityAccmeanX
 tGravityAccmeanY
