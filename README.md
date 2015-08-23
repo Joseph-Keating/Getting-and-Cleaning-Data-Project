@@ -1,6 +1,6 @@
 ### Introduction
 
-This repo tidies and summarizes the data taken from the accelerometers from the Samsung Galaxy S smartphone.
+This repo tidies and summarizes the data taken from measurements made on 30 volunteers wearing the Samsung Galaxy S smartphone. The background to the data is given at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The script run_analysis.R;
 
