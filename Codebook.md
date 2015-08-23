@@ -1,9 +1,9 @@
 Both the tidy data file and the summarized file created by the run_analysis.R script have the following variables;
 
-Variable 1. ACTIVITY
+###Variable 1. ACTIVITY
 Nature of Activity being measured. This takes the following values
 
- WALKING
+                                       WALKING
 
  WALKING_UPSTAIRS
 
@@ -15,13 +15,13 @@ Nature of Activity being measured. This takes the following values
 
  LAYING
 
-Variable 2. SUBJECT
+###Variable 2. SUBJECT
 
  Identification code of subject
  
  This takes the values 1 to 30
 
-Variables 3 to 88. These are the Result variables for each activity and subject.
+###Variables 3 to 88. These are the Result variables for each activity and subject.
 
 Only those variables which measure a mean or a standard deviation have been included.
 
