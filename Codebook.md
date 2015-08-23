@@ -3,17 +3,17 @@ Both the tidy data file and the summarized file created by the run_analysis.R sc
 ###Variable 1. ACTIVITY
 Nature of Activity being measured. This takes the following values
 
-                                       WALKING
+        WALKING
 
- WALKING_UPSTAIRS
+        WALKING_UPSTAIRS
 
- WALKING_DOWNSTAIRS
+        WALKING_DOWNSTAIRS
 
- SITTING
+        SITTING
 
- STANDING
+        STANDING
 
- LAYING
+        LAYING
 
 ###Variable 2. SUBJECT
 
