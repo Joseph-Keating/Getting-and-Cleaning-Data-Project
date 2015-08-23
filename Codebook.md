@@ -25,20 +25,29 @@ Nature of Activity being measured. This takes the following values
 
 Only those variables which measure a mean or a standard deviation have been included.
 
-*The inclusion of 'mean' or 'std' in the variable name indicates whether
+Units of measurement: All measurements are normalized and bounded within [-1,1].
+
+The inclusion of 'mean' or 'std' in the variable name indicates whether
 it is a mean or a standard deviation variable. 
 
-*The letters 'X', 'Y' and 'Z' at the end of the variable name indicate 3-axial signals in the X, Y and Z directions.
+The letters 'X', 'Y' and 'Z' at the end of the variable name indicate 3-axial signals in the X, Y and Z directions.
 
-*The inclusion of 'Acc' or 'Gyro' in the Variable name indicates whether the measurement was on the accelerometer or gyroscope respectively
+The inclusion of 'Acc' or 'Gyro' in the Variable name indicates whether the measurement was on the accelerometer or gyroscope respectively
 
-*Variables beginning 't' are time domain variables. Variables beginning 'f' are frequency domain variables.
+Variables beginning 't' are time domain variables. Variables beginning 'f' are frequency domain variables.
 
-*The inclusion of 'Body' in the variable name indicates a body motion component.
+The inclusion of 'Body' in the variable name indicates a body motion component.
 
-*The inclusion of 'Gravity' in the variable name indicates a gravitational motion component.
+The inclusion of 'Gravity' in the variable name indicates a gravitational motion component.
 
-*Units of measurement: All measurements are normalized and bounded within [-1,1].
+The inclusion of MeanFreq in the variable name indicates weighted average of the frequency components to obtain a mean frequency
+
+The inclusion of 'angle' in the variable name indicates the angle between two vectors
+
+The inclusion of 'Jerk' in the variable name indicates Jerk signals (derivatives in time of the body linear acceleration and angular velocity)
+
+The inclusion of 'Mag' in the variable name indicates the magnitude of signals using the Euclidean norm
+
 
 Variables 3 to 88 are as follows:
 
