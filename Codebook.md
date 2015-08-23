@@ -30,6 +30,12 @@ it is a mean or a standard deviation variable.
 
 The letters 'X', 'Y' and 'Z' at the end of the variable name indicate 3-axial signals in the X, Y and Z directions.
 
+The inclusion of 'Acc' or 'Gyro' in the Variable name indicates whether the measurement was on the accelerometer or gyroscope respectively
+
+Variables beginning 't' are time domain variables. Variables beginning 'f' are frequency domain variables.
+
+
+
 Variables 3 to 88 are as follows:
 
  
