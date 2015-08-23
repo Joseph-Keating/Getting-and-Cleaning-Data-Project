@@ -1,8 +1,6 @@
 ### Introduction
 
-This repo tidies and summarizes the data takenfrom the accelerometers from the Samsung Galaxy S smartphone.
-The code
-from the accelerometers from the Samsung Galaxy S smartphone
+This repo tidies and summarizes the data taken from the accelerometers from the Samsung Galaxy S smartphone.
 
 The script run_analysis.R;
 1. Merges the training and the test sets to create one data set.
