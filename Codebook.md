@@ -48,9 +48,13 @@ tBodyGyroJerkmeanY
 tBodyGyroJerkmeanZ
 
 tBodyAccMagmean
+
 tGravityAccMagmean
+
 tBodyAccJerkMagmean
+
 tBodyGyroMagmean
+
 tBodyGyroJerkMagmean
 
 fBodyAccmeanX
@@ -78,21 +82,34 @@ fBodyGyromeanFreqY
 fBodyGyromeanFreqZ
 
 fBodyAccMagmean
+
 fBodyAccMagmeanFreq
+
 fBodyAccJerkMagmean
+
 fBodyAccJerkMagmeanFreq
+
 fBodyGyroMagmean
+
 fBodyGyroMagmeanFreq
+
 fBodyGyroJerkMagmean
+
 fBodyGyroJerkMagmeanFreq
+
 angletBodyAccMeangravity
+
 angletBodyAccJerkMeangravityMean
+
 angletBodyGyroMeangravityMean
+
 angletBodyGyroJerkMeangravityMean
+
 
 angleXgravityMean
 angleYgravityMean
 angleZgravityMean
+
 
 tBodyAccstdX
 tBodyAccstdY
@@ -114,14 +131,16 @@ tBodyGyroJerkstdX
 tBodyGyroJerkstdY
 tBodyGyroJerkstdZ
 
-
-
-
 tBodyAccMagstd
+
 tGravityAccMagstd
+
 tBodyAccJerkMagstd
+
 tBodyGyroMagstd
+
 tBodyGyroJerkMagstd
+
 
 fBodyAccstdX
 fBodyAccstdY
@@ -136,8 +155,11 @@ fBodyGyrostdY
 fBodyGyrostdZ
 
 fBodyAccMagstd
+
 fBodyAccJerkMagstd
+
 fBodyGyroMagstd
+
 fBodyGyroJerkMagstd
 
  
